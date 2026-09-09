@@ -4,7 +4,7 @@ Repositório pessoal criado como aplicação prática da trilha **GitHub Foundat
 
 ## Sobre
 
-Sou Fabrício Soares, estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo, com background em Design Gráfico e Marketing Digital. Este espaço serve para organizar e versionar meus projetos pessoais e acadêmicos enquanto aplico na prática os fundamentos de Git e GitHub.
+Sou Fabrício Soares, estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 
 ## Tecnologias e ferramentas
 
