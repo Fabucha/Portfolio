@@ -9,6 +9,7 @@ Sou Fabrício Soares, estudante de Análise e Desenvolvimento de Sistemas na Uni
 ## Tecnologias e ferramentas
 
 - Python
+- FrontEnd (HTML, CSS, JS)
 - Git & GitHub
 - SQL & MySQL
 - N8N (automação e agentes de IA)
